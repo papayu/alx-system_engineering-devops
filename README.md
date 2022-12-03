@@ -1,1 +1,1 @@
-a repo for shell basic projects
+shell permissions
